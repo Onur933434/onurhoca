@@ -1,0 +1,94 @@
+#EXTM3U
+Gizem:
+#EXTINF:-1 tvg-id="" tvg-name="SWEDEN" tvg-logo="https://i.imgur.com/9NcBJXz.png" group-title="Sverige",SWEDEN
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/18977
+#EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT1 SE" tvg-logo="https://i.imgur.com/xCGtKYr.png" group-title="Sverige",SVT1 SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/52262
+#EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT1 HD SE" tvg-logo="https://i.imgur.com/r7Eyfxc.png" group-title="Sverige",SVT1 HD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/15647
+#EXTINF:-1 tvg-id="svt1.se" tvg-name="SVT1 FHD SE" tvg-logo="https://i.imgur.com/P6fc6Qe.png" group-title="Sverige",SVT1 FHD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/94914
+#EXTINF:-1 tvg-id="svt2.se" tvg-name="SVT2 SE" tvg-logo="https://i.imgur.com/H5aYiZJ.png" group-title="Sverige",SVT2 SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/52263
+#EXTINF:-1 tvg-id="svt2.se" tvg-name="SVT2 HD SE" tvg-logo="https://i.imgur.com/CQkikij.png" group-title="Sverige",SVT2 HD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/15649
+#EXTINF:-1 tvg-id="svt2.se" tvg-name="SVT2 FHD SE" tvg-logo="https://i.imgur.com/7MFICVZ.png" group-title="Sverige",SVT2 FHD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/94915
+#EXTINF:-1 tvg-id="tv3.se" tvg-name="TV3 SE" tvg-logo="https://i.imgur.com/njOYt6M.png" group-title="Sverige",TV3 SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/52264
+#EXTINF:-1 tvg-id="tv3.se" tvg-name="TV3 HD SE" tvg-logo="https://i.imgur.com/FoRpsA6.png" group-title="Sverige",TV3 HD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/15653
+#EXTINF:-1 tvg-id="tv4.se" tvg-name="TV4 SE" tvg-logo="https://i.imgur.com/8kJkSG1.png" group-title="Sverige",TV4 SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/52265
+#EXTINF:-1 tvg-id="tv4.se" tvg-name="TV4 HD SE" tvg-logo="https://i.imgur.com/vobqAKB.png" group-title="Sverige",TV4 HD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/15655
+#EXTINF:-1 tvg-id="tv4.se" tvg-name="TV4 FHD SE" tvg-logo="https://i.imgur.com/QxPqKlj.png" group-title="Sverige",TV4 FHD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/59989
+#EXTINF:-1 tvg-id="" tvg-name="TV4 Nyheterna SE" tvg-logo="https://i.imgur.com/svxR5ln.png" group-title="Sverige",TV4 Nyheterna SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/90714
+#EXTINF:-1 tvg-id="kanal5.se" tvg-name="Kanal 5 SE" tvg-logo="https://i.imgur.com/7z3h4qK.png" group-title="Sverige",Kanal 5 SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/52266
+#EXTINF:-1 tvg-id="kanal5.se" tvg-name="Kanal 5 HD SE" tvg-logo="https://i.imgur.com/tDXdu6A.png" group-title="Sverige",Kanal 5 HD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/15657
+#EXTINF:-1 tvg-id="kanal5.se" tvg-name="Kanal 5 FHD SE" tvg-logo="https://i.imgur.com/LvCucqf.png" group-title="Sverige",Kanal 5 FHD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/94924
+#EXTINF:-1 tvg-id="tv6.se" tvg-name="TV6 SE" tvg-logo="https://i.imgur.com/ag6i6ZN.png" group-title="Sverige",TV6 SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/52267
+#EXTINF:-1 tvg-id="tv6.se" tvg-name="TV6 HD SE" tvg-logo="https://i.imgur.com/AhbWaCj.png" group-title="Sverige",TV6 HD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/15659
+#EXTINF:-1 tvg-id="tv6.se" tvg-name="TV6 FHD SE" tvg-logo="https://i.imgur.com/kETNnB5.png" group-title="Sverige",TV6 FHD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/102043
+#EXTINF:-1 tvg-id="sjuan.se" tvg-name="Sjuan SE" tvg-logo="https://i.imgur.com/TASoi3D.png" group-title="Sverige",Sjuan SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/52268
+#EXTINF:-1 tvg-id="sjuan.se" tvg-name="Sjuan HD SE" tvg-logo="https://i.imgur.com/KJglPGk.png" group-title="Sverige",Sjuan HD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/15661
+#EXTINF:-1 tvg-id="sjuan.se" tvg-name="Sjuan FHD SE" tvg-logo="https://i.imgur.com/5etknYq.png" group-title="Sverige",Sjuan FHD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/95757
+#EXTINF:-1 tvg-id="tv8.se" tvg-name="TV8 SE" tvg-logo="https://i.imgur.com/iXT79R7.png" group-title="Sverige",TV8 SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/52269
+#EXTINF:-1 tvg-id="tv8.se" tvg-name="TV8 HD SE" tvg-logo="https://i.imgur.com/8reiV1h.png" group-title="Sverige",TV8 HD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/15662
+#EXTINF:-1 tvg-id="tv8.se" tvg-name="TV8 FHD SE" tvg-logo="https://i.imgur.com/xuDs0fL.png" group-title="Sverige",TV8 FHD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/102045
+#EXTINF:-1 tvg-id="kanal9.se" tvg-name="Kanal 9 SE" tvg-logo="https://i.imgur.com/a4ybw10.png" group-title="Sverige",Kanal 9 SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/52270
+#EXTINF:-1 tvg-id="kanal9.se" tvg-name="Kanal 9 HD SE" tvg-logo="https://i.imgur.com/Aq3WL8u.png" group-title="Sverige",Kanal 9 HD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/15663
+#EXTINF:-1 tvg-id="kanal9.se" tvg-name="Kanal 9 FHD SE" tvg-logo="https://i.imgur.com/eh3M0IG.png" group-title="Sverige",Kanal 9 FHD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/94925
+#EXTINF:-1 tvg-id="tv10.se" tvg-name="TV10 SE" tvg-logo="https://i.imgur.com/LbSE7v7.png" group-title="Sverige",TV10 SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/52261
+#EXTINF:-1 tvg-id="tv10.se" tvg-name="TV10 HD SE" tvg-logo="https://i.imgur.com/iwgCd87.png" group-title="Sverige",TV10 HD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/15665
+#EXTINF:-1 tvg-id="tv10.se" tvg-name="TV10 FHD SE" tvg-logo="https://i.imgur.com/wukuqLL.png" group-title="Sverige",TV10 FHD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/102044
+#EXTINF:-1 tvg-id="kanal11.se" tvg-name="Kanal 11 SE" tvg-logo="https://i.imgur.com/riimNGk.png" group-title="Sverige",Kanal 11 SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/52271
+#EXTINF:-1 tvg-id="kanal11.se" tvg-name="Kanal 11 HD SE" tvg-logo="https://i.imgur.com/osxxq4A.png" group-title="Sverige",Kanal 11 HD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/15667
+#EXTINF:-1 tvg-id="kanal11.se" tvg-name="Kanal 11 FHD SE" tvg-logo="https://i.imgur.com/F46cpx0.png" group-title="Sverige",Kanal 11 FHD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/95762
+#EXTINF:-1 tvg-id="tv12.se" tvg-name="TV12 SE" tvg-logo="https://i.imgur.com/6iT0uBF.png" group-title="Sverige",TV12 SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/52272
+#EXTINF:-1 tvg-id="tv12.se" tvg-name="TV12 HD SE" tvg-logo="https://i.imgur.com/0JOIVIP.png" group-title="Sverige",TV12 HD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/16480
+#EXTINF:-1 tvg-id="tv12.se" tvg-name="TV12 FHD SE" tvg-logo="https://i.imgur.com/wtjBC9H.png" group-title="Sverige",TV12 FHD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/95763
+#EXTINF:-1 tvg-id="svt24.se" tvg-name="SVT24 FHD SE" tvg-logo="s:1:/images/Spe_n6_ezYNHOFNy4Z8ScAOKsG9b5MlMXZqXlN_E_a8.png" group-title="Sverige",SVT24 FHD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/94917
+#EXTINF:-1 tvg-id="" tvg-name="Nyheter" tvg-logo="s:1:/images/Spe_n6_ezYNHOFNy4Z8ScOXtotg1AcsD-TdTWCUDgjQ.png" group-title="Sverige",Nyheter
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/15702
+#EXTINF:-1 tvg-id="AWNEHD" tvg-name="AccuWeather HD" tvg-logo="s:1:/images/Spe_n6_ezYNHOFNy4Z8ScEkqZLcI1jgTF1VWQckcDro.png" group-title="Sverige",AccuWeather HD
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/54679
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA HD" tvg-logo="https://i.imgur.com/H0w73mK.png" group-title="Sverige",AL JAZEERA HD
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/15703
+#EXTINF:-1 tvg-id="BBCASP" tvg-name="BBC WORLD NEWS" tvg-logo="https://i.imgur.com/7tAMQkK.png" group-title="Sverige",BBC WORLD NEWS
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/15706
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG FHD" tvg-logo="https://i.imgur.com/Gr8p2X1.png" group-title="Sverige",BLOOMBERG FHD
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/15707
+#EXTINF:-1 tvg-id="" tvg-name="CNBC FHD" tvg-logo="https://i.imgur.com/eDgLV1n.png" group-title="Sverige",CNBC FHD
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/25439
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN SE" tvg-logo="https://i.imgur.com/NKwTgQL.png" group-title="Sverige",CNN SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/15708
+#EXTINF:-1 tvg-id="" tvg-name="Di TV HD SE" tvg-logo="s:1:/images/Spe_n6_ezYNHOFNy4Z8ScCWj9flYK8FXDFI7m9lCRRE.png" group-title="Sverige",Di TV HD SE
+http://alienstreams.fi:7070/UmRggmBAbX2t3nyWk3RPBa7A4JsNBBpj/ZaBDXvpZwRp8NQ9WHCdvvjpj9gDqufjd/15709
