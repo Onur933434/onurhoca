@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS FEED YAYIN mac saati aktif" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS FEED YAYIN mac saati aktif
+http://cms-medyatv.net:8080/live/akinci2/5798003361/12.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 FULL HD" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 FULL HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/5395.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 FULL HD 2" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 FULL HD 2
+http://cms-medyatv.net:8080/live/akinci2/5798003361/68509.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 HD" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/8.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 QHD" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 QHD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/5396.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 SD" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 SD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/9.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 MOBIL" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 MOBIL
+http://cms-medyatv.net:8080/live/akinci2/5798003361/11.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 480p" tvg-logo="https://i.hizliresim.com/rv06nqr.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 480p
+http://cms-medyatv.net:8080/live/akinci2/5798003361/26.ts
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="beIN SPORTS 1 4K YUKSEK KALITE" tvg-logo="https://i.hizliresim.com/psl5ml0.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 1 4K YUKSEK KALITE
+http://cms-medyatv.net:8080/live/akinci2/5798003361/7.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN SPORTS 2 FHD" tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 2 FHD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/14.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 2 HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/15.ts
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="beIN SPORTS 2 SD" tvg-logo="https://i.hizliresim.com/brdtr31.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 2 SD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/16.ts
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN SPORTS 3 FHD" tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 3 FHD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/17.ts
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN SPORTS 3 HD" tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 3 HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/18.ts
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="beIN SPORTS 3 SD MOBIL" tvg-logo="https://i.hizliresim.com/fzoed44.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 3 SD MOBIL
+http://cms-medyatv.net:8080/live/akinci2/5798003361/9237.ts
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="beIN SPORTS 4 FHD" tvg-logo="https://i.hizliresim.com/ex5tbef.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 4 FHD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/19.ts
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="beIN SPORTS 4 HD" tvg-logo="https://i.hizliresim.com/ex5tbef.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 4 HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/9238.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 5 FHD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/69216.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://i.hizliresim.com/phr7zzd.jpeg" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS 5 HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/69215.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN SPORTS MAX 1 FHD" tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS MAX 1 FHD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/20.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN SPORTS MAX 1 HD" tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS MAX 1 HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/9233.ts
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="beIN SPORTS MAX 1 Yedek" tvg-logo="https://i.hizliresim.com/o47q2nl.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS MAX 1 Yedek
+http://cms-medyatv.net:8080/live/akinci2/5798003361/9234.ts
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN SPORTS MAX 2 FHD" tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS MAX 2 FHD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/21.ts
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN SPORTS MAX 2 HD" tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS MAX 2 HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/9235.ts
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="beIN SPORTS MAX 2 Yedek" tvg-logo="https://i.hizliresim.com/nfi0vm0.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS MAX 2 Yedek
+http://cms-medyatv.net:8080/live/akinci2/5798003361/9236.ts
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="beIN SPORTS HABER FHD" tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS HABER FHD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/22.ts
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="beIN SPORTS HABER HD" tvg-logo="https://i.hizliresim.com/5y4g6r9.png" group-title="1)TR➾ beIN SPORTS	",beIN SPORTS HABER HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/22358.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC HD -1" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="1)TR➾ beIN SPORTS	",BEINCONNET CANLI MAC HD -1
+http://cms-medyatv.net:8080/live/akinci2/5798003361/30561.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC HD -2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="1)TR➾ beIN SPORTS	",BEINCONNET CANLI MAC HD -2
+http://cms-medyatv.net:8080/live/akinci2/5798003361/30562.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC HD -3" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="1)TR➾ beIN SPORTS	",BEINCONNET CANLI MAC HD -3
+http://cms-medyatv.net:8080/live/akinci2/5798003361/30563.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC HD -4" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="1)TR➾ beIN SPORTS	",BEINCONNET CANLI MAC HD -4
+http://cms-medyatv.net:8080/live/akinci2/5798003361/30564.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC HD -5" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="1)TR➾ beIN SPORTS	",BEINCONNET CANLI MAC HD -5
+http://cms-medyatv.net:8080/live/akinci2/5798003361/30565.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEINCONNET CANLI MAC HD -6" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d8/BeIN_CONNECT_T%C3%BCrkiye_kurumsal_logo.png" group-title="1)TR➾ beIN SPORTS	",BEINCONNET CANLI MAC HD -6
+http://cms-medyatv.net:8080/live/akinci2/5798003361/30566.ts
+#EXTINF:-1 tvg-id="" tvg-name="₪₪₪₪₪ [ TURKEY SPORT ] ₪₪₪₪₪" tvg-logo="https://seeklogo.com/images/T/turkiye-yuvarlak-logo-6483C54DD8-seeklogo.com.png" group-title="2)TR➾ SPOR",₪₪₪₪₪ [ TURKEY SPORT ] ₪₪₪₪₪
+http://cms-medyatv.net:8080/live/akinci2/5798003361/13.ts
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="S SPORT HD" tvg-logo="https://i.hizliresim.com/b5gwe5i.png" group-title="2)TR➾ SPOR",S SPORT HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/24.ts
+#EXTINF:-1 tvg-id="" tvg-name="S SPORT HD Yedek" tvg-logo="https://i.hizliresim.com/b5gwe5i.png" group-title="2)TR➾ SPOR",S SPORT HD Yedek
+http://cms-medyatv.net:8080/live/akinci2/5798003361/20085.ts
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="S SPORT 2 HD" tvg-logo="https://i.hizliresim.com/28owbto.png" group-title="2)TR➾ SPOR",S SPORT 2 HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/25.ts
+#EXTINF:-1 tvg-id="ssport2.tr" tvg-name="S SPORT 2 HD Yedek" tvg-logo="https://i.hizliresim.com/28owbto.png" group-title="2)TR➾ SPOR",S SPORT 2 HD Yedek
+http://cms-medyatv.net:8080/live/akinci2/5798003361/20086.ts
+#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="SPOR SMART FHD" tvg-logo="https://i.hizliresim.com/hknh5hg.png" group-title="2)TR➾ SPOR",SPOR SMART FHD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/20929.ts
+#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="SPOR SMART FHD Yedek" tvg-logo="https://i.hizliresim.com/hknh5hg.png" group-title="2)TR➾ SPOR",SPOR SMART FHD Yedek
+http://cms-medyatv.net:8080/live/akinci2/5798003361/23.ts
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="SPOR SMART HD" tvg-logo="https://i.hizliresim.com/hknh5hg.png" group-title="2)TR➾ SPOR",SPOR SMART HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/19465.ts
+#EXTINF:-1 tvg-id="sporsmart.tr" tvg-name="SPOR SMART HD Yedek" tvg-logo="https://i.hizliresim.com/hknh5hg.png" group-title="2)TR➾ SPOR",SPOR SMART HD Yedek
+http://cms-medyatv.net:8080/live/akinci2/5798003361/22489.ts
+#EXTINF:-1 tvg-id="smartspor.tr" tvg-name="SPOR SMART 2 HD" tvg-logo="https://i.hizliresim.com/sfno83t.png" group-title="2)TR➾ SPOR",SPOR SMART 2 HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/19320.ts
+#EXTINF:-1 tvg-id="" tvg-name="SPOR SMART 2 HD Yedek" tvg-logo="https://i.hizliresim.com/sfno83t.png" group-title="2)TR➾ SPOR",SPOR SMART 2 HD Yedek
+http://cms-medyatv.net:8080/live/akinci2/5798003361/20087.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 1 HD" tvg-logo="https://i.hizliresim.com/cb7ud0a.png" group-title="2)TR➾ SPOR",TIVIBU SPOR 1 HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/27.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 2 HD" tvg-logo="https://i.hizliresim.com/cb7ud0a.png" group-title="2)TR➾ SPOR",TIVIBU SPOR 2 HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/28.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 3 HD" tvg-logo="https://i.hizliresim.com/cb7ud0a.png" group-title="2)TR➾ SPOR",TIVIBU SPOR 3 HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/29.ts
+#EXTINF:-1 tvg-id="" tvg-name="TIVIBU SPOR 4 HD" tvg-logo="https://i.hizliresim.com/cb7ud0a.png" group-title="2)TR➾ SPOR",TIVIBU SPOR 4 HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/36055.ts
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.hizliresim.com/4zr16ap.png" group-title="2)TR➾ SPOR",EUROSPORT 1 HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/34.ts
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="EUROSPORT 2 HD" tvg-logo="https://i.hizliresim.com/1wmmepl.png" group-title="2)TR➾ SPOR",EUROSPORT 2 HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/35.ts
+#EXTINF:-1 tvg-id="nbatv.tr" tvg-name="NBA TV HD" tvg-logo="https://i.hizliresim.com/9r09rpb.png" group-title="2)TR➾ SPOR",NBA TV HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/36.ts
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRT SPOR FHD" tvg-logo="https://i.hizliresim.com/6t0gunx.png" group-title="2)TR➾ SPOR",TRT SPOR FHD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/30.ts
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TRT SPOR HD" tvg-logo="https://i.hizliresim.com/6t0gunx.png" group-title="2)TR➾ SPOR",TRT SPOR HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/9241.ts
+#EXTINF:-1 tvg-id="trtspor2.tr" tvg-name="TRT SPOR 2 HD" tvg-logo="https://i.hizliresim.com/qbs8nwa.png" group-title="2)TR➾ SPOR",TRT SPOR 2 HD
+http://cms-medyatv.net:8080/live/akinci2/5798003361/9242.
